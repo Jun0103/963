@@ -1,0 +1,25 @@
+.box1 {
+    width: 500px;
+    height: 500px;
+    background-color: #F418DE;
+    background-image: url(_124800859_gettyimages-817514614.jpg);
+    background-size: 500px 500px;
+}
+.box2 {
+    width: 500px;
+    height: 500px;
+    background-color: #FFFD00;
+    background-image: url(dog-running-through-autumn-leaves.jpg);
+    background-size: 500px 500px;
+}
+.box3 {
+    width: 500px;
+    height: 500px;
+    background-color: #009BFF;
+    background-image: url(220805-border-collie-play-mn-1100-82d2f1.jpg);
+	 background-size: 500px 500px;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+}
